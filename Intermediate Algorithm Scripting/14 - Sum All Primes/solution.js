@@ -13,11 +13,8 @@ function isPrime(num) {
 function sumPrimes(num) {
   var sum = 0;
   for (var i = 1; i <= num; i++) {
-    console.log("i = " + i);
     if(isPrime(i)) {
       sum += i;
-      console.log(i + " is prime");
-      console.log("sum = " + sum);
     }
   }
   return sum;

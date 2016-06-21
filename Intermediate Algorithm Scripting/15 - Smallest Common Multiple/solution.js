@@ -40,4 +40,4 @@ function smallestCommons(arr) {
   return lcm;
 }
 
-console.log(smallestCommons([1, 5]));
+smallestCommons([1, 5]);
