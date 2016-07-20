@@ -5,7 +5,6 @@ function sumAll(arr) {
   
   for (i = min; i <= max; i++) {
     allNums.push(i);
-    console.log(allNums);
   }
   
   return allNums.reduce(function(a, b) {
