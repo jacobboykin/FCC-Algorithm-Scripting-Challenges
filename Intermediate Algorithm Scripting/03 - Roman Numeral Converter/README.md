@@ -1,6 +1,6 @@
 #Roman Numeral Converter
 
-**Status:** In progress...
+**Status:** Solved!
 
 **Challenge link:** [Free Code Camp - Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
 
