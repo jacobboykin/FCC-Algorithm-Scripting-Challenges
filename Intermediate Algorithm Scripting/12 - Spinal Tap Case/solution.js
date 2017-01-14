@@ -1,7 +1,16 @@
 function spinalCase(str) {
-  // "It's such a fine line between stupid, and clever."
-  // --David St. Hubbins
-  return str;
+
+  // Change 'lowerUpper' with 'lower Upper'
+  str = str.replace(/([a-z])([A-Z])/g, function(match, p1, p2) {
+    return p1 + ' ' + p2;
+  });
+
+  // Change '_' or ' ' to '-'
+  str = str.replace(/\s|_/g, function(match) {
+    return '-';
+  });
+
+  return str.toLowerCase();
 }
 
-spinalCase('This Is Spinal Tap');
+console.log(spinalCase('This Is Spinal Tap'));

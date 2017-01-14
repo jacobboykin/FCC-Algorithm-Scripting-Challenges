@@ -1,6 +1,6 @@
 #Spinal Tap Case
 
-**Status:** In progress..
+**Status:** Solved!
 
 **Challenge link:** [Free Code Camp - Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
 
