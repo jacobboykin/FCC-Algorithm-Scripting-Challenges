@@ -1,6 +1,6 @@
 #Wherefore Art Thou
 
-**Status:** In Progress...
+**Status:** Solved!
 
 **Challenge link:** [Free Code Camp - Wherefore Art Thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
 
